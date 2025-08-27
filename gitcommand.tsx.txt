@@ -6,3 +6,9 @@ git branch (show all the branch)
 git swith branchName (to swith to that branch)
 git switch -c branchName(to make a new brach and swith to that )
 git branch branchName(to make a new branch but not switch to that branch)
+
+git add .
+git init 
+git commit -m "ddddd"
+git remote add origin https://github.com/karim-lucky/gitPractice.git
+git push origin master
